@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-etiduf.alphacbd.co.uk/sitemap.xml
